@@ -1,6 +1,6 @@
 ## Welcome to My GitHub page!
 
-![Adam Moulsdale](http://dev-adam-moulsdale-portfolio.pantheonsite.io/wp-content/uploads/2017/02/DSC_0030-e1488187991111-300x221.jpg)
+![Adam Moulsdale](https://camo.githubusercontent.com/ba5663a674cd34690562abebfcc29efa9a126d44/687474703a2f2f6465762d6164616d2d6d6f756c7364616c652d706f7274666f6c696f2e70616e7468656f6e736974652e696f2f77702d636f6e74656e742f75706c6f6164732f323031372f30322f4453435f303033302d65313438383138373939313131312d333030783232312e6a7067)
 
 My name is _Adam Moulsdale_ and this is my GitHub page, you can see my GitHub account [here](https://github.com/Mongy352).
 
